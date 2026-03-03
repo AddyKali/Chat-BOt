@@ -1,0 +1,11 @@
+{
+  "wake_word": "jarvis",
+  "voice_rate": 169,
+  "voice_volume": 1.0,
+  "anthropic_api_key": "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",
+  "enable_logging": true,
+  "log_level": "INFO",
+  "continuous_listening": true,
+  "command_timeout": 10,
+  "speech_recognition_language": ["en-US", "hi-IN"]
+}

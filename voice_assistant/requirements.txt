@@ -1,0 +1,20 @@
+# Core Speech Recognition & TTS
+SpeechRecognition==3.10.1
+pyttsx3==2.90
+pyaudio==0.2.14
+
+# Anthropic Claude API
+anthropic==0.42.0
+
+# System Monitoring & Control
+psutil==5.9.8
+pywin32==311
+WMI==1.5.1
+winshell==0.6
+
+# Image Processing (for screenshots)
+Pillow==10.2.0
+
+# Utilities
+requests==2.31.0
+python-dotenv==1.0.0
