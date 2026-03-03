@@ -363,4 +363,4 @@ Say: "What time is it?"
 
 ---
 
-**Made with ❤️ for Windows power users**
+**Made with ❤️By Adarsh Kumar for Windows power users**
